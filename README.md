@@ -18,7 +18,7 @@ I am Philip Matthew, a Full Stack Web Developer and Python Programmer passionate
 - **Tools/Technologies:** Git, RESTful APIs, Postman API
 
 ## How to Reach Me 📬
-- **Email:** philipmatthew26@gmail.com
+- **Email:** philipmatthew2610@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/philipmatthew26/
 - **GitHub:** https://github.com/Philip-Matthew
 
