@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me => email: philipmatthew2610@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm interested in lot of tech fields😅
+- ⚡ Fun fact: I'm interested in various tech fields😅
 
 - # Philip Matthew - Full Stack Web Developer & Python Programmer 💻🐍
 
