@@ -23,7 +23,7 @@ I am Philip Matthew, a Full Stack Web Developer and Python Programmer passionate
 - **GitHub:** https://github.com/Philip-Matthew
 
 ## Resume 📄
-You can find my resume [here](https://philip-matthew.github.io/My-Resume/)
+You can find my resume [here](https://philip-matthew.github.io/Portfolio/)
 
 ## Let's Connect 🤝
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email or connect with me on LinkedIn. Let's build amazing projects together!
