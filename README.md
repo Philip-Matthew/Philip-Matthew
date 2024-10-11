@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip Matthew
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development, Python Automation, Machine Learning and building Real-world Applications
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me => email: philipmatthew2610@gmail.com
 - 😄 Pronouns: he/him
