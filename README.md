@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Python Automation, Machine Learning and building Real-world Applications
 - 🌱 I’m currently learning Full Stack Web Development and Python Automation
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me => email: philipmatthew2610@gmail.com
+- 📫 How to reach me => email: philipmatthew26@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm interested in various tech fields (not a tech-savy geek)😅
 
