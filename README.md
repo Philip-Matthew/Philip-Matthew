@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me => email: philipmatthew26@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm interested in various tech fields (not a tech-savy geek)😅
+- ⚡ Fun fact: I'm interested in various tech fields😅
 
 - # Philip Matthew - Full Stack Web Developer & Python Programmer 💻🐍
 
@@ -18,7 +18,7 @@ I am Philip Matthew, a Full Stack Web Developer and Python Programmer passionate
 - **Tools/Technologies:** Git & Github, RESTful APIs, Postman API, Visual Studio Code
 
 ## How to Reach Me 📬
-- **Email:** philipmatthew2610@gmail.com
+- **Email:** philipmatthew26@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/philipmatthew26/
 - **GitHub:** https://github.com/Philip-Matthew
 
